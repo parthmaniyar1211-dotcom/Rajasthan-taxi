@@ -1,0 +1,8 @@
+{
+  "name": "Rajasthan Taxi & Royal Tour Services",
+  "description": "Premier cab booking, sightseeing tours, outstation transfers, and royal holiday car rentals across Jaipur, Udaipur, Jodhpur, Jaisalmer and all of Rajasthan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
